@@ -7,3 +7,7 @@
 #Dashborad for Admin
 
 ![Dashboardforadmin](https://user-images.githubusercontent.com/58104706/121131543-94d5ab00-c84d-11eb-9c44-081a16c5c93e.png)
+
+#Django RestFramework Dashborad
+
+![DjangoRestFramework](https://user-images.githubusercontent.com/58104706/121132403-b5eacb80-c84e-11eb-9e0f-58405f8bc2ba.png)
